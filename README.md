@@ -1,1 +1,1 @@
-# Solar-Panels-Dust-Detection
+# Solar Panels Dust Detection
