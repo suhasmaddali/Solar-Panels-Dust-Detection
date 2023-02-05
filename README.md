@@ -4,4 +4,4 @@
 
 ## Introduction 
 
-Solar panels are used in quite a large number of industries. 
+Solar panels are used in quite a large number of industries. Examples include residential, agricultural, manufacturing, healthcare and retail to name a few. 
