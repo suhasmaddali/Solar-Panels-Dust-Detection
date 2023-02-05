@@ -19,6 +19,8 @@ With the rise and development of deep learning models used for recognizing image
 
 ## Exploratory Data Analysis (EDA)
 
+## Feature Engineering
+
 ## Metrics
 
 ## Deep Learning Models
