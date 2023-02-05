@@ -4,4 +4,4 @@
 
 ## Introduction 
 
-Solar panels are used in quite a large number of industries. Examples include residential, agricultural, manufacturing, healthcare and retail to name a few. 
+Solar panels are used in quite a large number of industries. Examples include residential, agricultural, manufacturing, healthcare and retail to name a few. With year of their usage, there is often dust accumulated on their surface due to factors such as climate, trees, vegetation, lack of maintenance and bird droppings. Since the primary source of energy for solar cells comes from the sun, the dust accumulated on the surface of the panels lead to reduced efficiency, reduced lifespan, increased costs and inefficiency resource use. 
