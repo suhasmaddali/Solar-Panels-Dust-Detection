@@ -34,6 +34,20 @@ As there are 2 classes (clean or dusty), it becomes a classification problem. We
 
 ## Deep Learning Models
 
+We would be using convolutional neural networks (CNNs) with various configurations along with various transfer learning methodologies to determine the best model to be deployed. Below are the list of models used.
+
+1. __VGG16__
+2. __VGG19__
+3. __InceptionNet__
+4. __MobileNet__
+5. __Xception__ 
+6. __MobileNetV2__
+7. __CNN (Configuration 1)__
+8. __CNN (Configuration 2)__
+9. __CNN (Configuration 3)__
+10. __CNN (Configuration 4)__
+
+
 ## 💻 Training with NVIDIA's RTX 2080 graphics card for Computer Vision Tasks 
 
 * __GPU-accelerated deep learning frameworks__ offer flexibility to design and train __deep neural networks__.
