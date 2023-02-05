@@ -4,39 +4,39 @@
 
 ## Introduction 
 
-__Solar panels__ are used in quite a large number of industries. Examples include residential, agricultural, manufacturing, healthcare and retail industries. As these panels are used for many years, there is often dust accumulated on their surface due to factors such as climate, trees, vegetation, lack of maintenance and bird droppings. Since the primary source of energy for solar cells comes from the sun, the dust accumulated on the surface of the panels lead to reduced efficiency, reduced lifespan, increased costs and inefficient resource use. 
+__Solar panels__ are used in quite a large number of industries. Examples include residential, agricultural, manufacturing, healthcare, and retail industries. As these panels are used for many years, there is often dust accumulated on their surface due to factors such as climate, trees, vegetation, lack of maintenance, and bird droppings. Since the primary source of energy for solar cells comes from the sun, the dust accumulated on the surface of the panels leads to reduced efficiency, reduced lifespan, increased costs, and inefficient resource use. 
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Solar%20Panel%20GitHub%20Images.jpg" />
 
 ## Challenges
 
-There are often challenges associated with using solar panels for generation of electricity. One of the primary issues is their low efficiency. However, they are quite useful in areas where there is abundant sunlight. Due to dust accumulated on their surface, their efficiency reduces as it is not able to absorb the solar radiation from the sun. 
+There are often challenges associated with using solar panels for the generation of electricity. One of the primary issues is their low efficiency. However, they are quite useful in areas where there is abundant sunlight. Due to dust accumulating on their surface, their efficiency reduces as it is not able to absorb the solar radiation from the sun. 
 
 ## Deep Learning and Data Science
 
-* With the rise and development of deep learning models used for recognizing images, it is possible to find a solution to this problem of accumulation of dust on solar panels. 
-* Convolutional Neural Networks (CNNs) are used for image processing and can extract useful insights from them and make prediction about whether solar panels are dusty or clean. 
+* With the rise and development of deep learning models used for recognizing images, it is possible to find a solution to this problem of the accumulation of dust on solar panels. 
+* Convolutional Neural Networks (CNNs) are used for image processing and can extract useful insights from them and make a prediction about whether solar panels are dusty or clean. 
 * In the recent decade, there has been a rapid growth of transformers and how they could be used for vision tasks (known as vision transformers). 
 * There are other learning strategies such as transfer learning that also result in improved performance and minimal training.
 * Therefore, it is possible to improve the systems that detect dust on the surface of solar panels, leading to improved efficiency and reduced operational and maintenance costs. 
 
 ## Exploratory Data Analysis (EDA)
 
-* Performing exploratory data analysis could reveal interesting patterns about the data (images) so that adequate feature engineering could be performed, leading to improved model performance. 
-* After exploring the images, it could be seen that there are a lot of diverse and inconsistent images of dusty solar panel images. 
+* Performing exploratory data analysis could reveal interesting patterns in the data (images) so that adequate feature engineering could be performed, leading to improved model performance. 
+* After exploring the images, it could be seen that there are a lot of diverse and inconsistent images of dusty solar panels images. 
 * Therefore, collecting more data that is consistent and indicative of dusty panels is an important step. 
 * Since the data that we are dealing with is quite small, there is a higher chance of overfitting, especially if using complex models through transfer learning. 
-* All of these must be followed to ensure that there is increased value by using our product to detect the dusty solar panels. 
+* All of these must be followed to ensure that there is an increased value by using our product to detect dusty solar panels. 
 
 ## Feature Engineering
 
-* The data read as input in the form of array is not normalized. 
+* The data read as input in the form of an array is not normalized. 
 * Therefore, we take an additional step to ensure that the maximum pixel value of 1 and a minimum pixel value of 0.
 * Feature Engineering strategies such as semantic segmentation would be followed to improve the performance of the best deep learning image recognition model. 
 
 ## Metrics
 
-As there are 2 classes (clean or dusty), it becomes a classification problem. We would be using binary cross entropy loss and modify the weights of deep neural networks until the desired performance is met. Below are the metrics used to track various model performances. 
+As there are 2 classes (clean or dusty), it becomes a classification problem. We would be using binary cross-entropy loss and modifying the weights of deep neural networks until the desired performance is met. Below are the metrics used to track various model performances. 
 
 * [__Accuracy__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html)
 * [__Precision__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html)
@@ -46,7 +46,7 @@ As there are 2 classes (clean or dusty), it becomes a classification problem. We
 
 ## Deep Learning Models
 
-We would be using convolutional neural networks (CNNs) with various configurations along with various transfer learning methodologies to determine the best model to be deployed. Below are the list of models used.
+We would be using convolutional neural networks (CNNs) with various configurations along with various transfer learning methodologies to determine the best model to be deployed. Below is the list of models used.
 
 * __VGG16__
 * __VGG19__
@@ -61,14 +61,13 @@ We would be using convolutional neural networks (CNNs) with various configuratio
 
 ## Outcomes
 
-* After training a vast array of networks for the recognition of solar panels dust, it could be seen that MobileNetV2 was performing well on the test set. 
+* After training a vast array of networks for the recognition of solar panel dust, it could be seen that MobileNetV2 was performing well on the test set. 
 * Adequate hyperparameter tuning with this model can improve the performance even further, with minimal chances of overfitting. 
 
 ## Future Scope
 
 * As the best model is able to give good performance on the solar panel dataset, it could be __deployed__ in real-time in a lightweight fashion in mobiles and IoT devices. 
-* With various libraries such as __Tensorflow extended (TFX)__, it is easy to deploy a large set of models along with debugging and maintaining them when they are put to production, leading to an efficiency ML lifecycle. 
-
+* With various libraries such as __Tensorflow extended (TFX)__, it is easy to deploy a large set of models along with debugging and maintaining them when they are put into production, leading to an efficient ML lifecycle. 
 
 ## 💻 Training with NVIDIA's RTX 2080 graphics card for Computer Vision Tasks 
 
