@@ -22,6 +22,8 @@ Performing exploratory data analysis could reveal interesting patterns about the
 
 ## Feature Engineering
 
+The data read as input in the form of array is not normalized. Therefore, we take an additional step to ensure that the maximum pixel value has a value of 1 and a minimum pixel value of 0 respectively. 
+
 ## Metrics
 
 As there are 2 classes (clean or dusty), it becomes a classification problem. We would be using binary cross entropy loss and modify the weights of deep neural networks until the desired performance is met. Below are the metrics used to track various model performances. 
