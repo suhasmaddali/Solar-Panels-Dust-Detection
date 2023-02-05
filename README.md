@@ -4,7 +4,7 @@
 
 ## Introduction 
 
-__Solar panels__ are used in quite a large number of industries. Examples include residential, agricultural, manufacturing, healthcare and retail industries. With year of their usage, there is often dust accumulated on their surface due to factors such as climate, trees, vegetation, lack of maintenance and bird droppings. Since the primary source of energy for solar cells comes from the sun, the dust accumulated on the surface of the panels lead to reduced efficiency, reduced lifespan, increased costs and inefficiency resource use. 
+__Solar panels__ are used in quite a large number of industries. Examples include residential, agricultural, manufacturing, healthcare and retail industries. As these panels are used for many years, there is often dust accumulated on their surface due to factors such as climate, trees, vegetation, lack of maintenance and bird droppings. Since the primary source of energy for solar cells comes from the sun, the dust accumulated on the surface of the panels lead to reduced efficiency, reduced lifespan, increased costs and inefficient resource use. 
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Solar%20Panel%20GitHub%20Images.jpg" />
 
