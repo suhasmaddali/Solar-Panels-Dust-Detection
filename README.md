@@ -26,11 +26,11 @@ Performing exploratory data analysis could reveal interesting patterns about the
 
 As there are 2 classes (clean or dusty), it becomes a classification problem. We would be using binary cross entropy loss and modify the weights of deep neural networks until the desired performance is met. Below are the metrics used to track various model performances. 
 
-1. Accuracy
-2. Precision
-3. Recall
-4. F1-Score
-5. ROC-AUC Curves
+1. __Accuracy__
+2. __Precision__
+3. __Recall__
+4. __F1-Score__
+5. __ROC-AUC Curves__
 
 ## Deep Learning Models
 
