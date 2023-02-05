@@ -22,7 +22,7 @@ Performing exploratory data analysis could reveal interesting patterns about the
 
 ## Feature Engineering
 
-The data read as input in the form of array is not normalized. Therefore, we take an additional step to ensure that the maximum pixel value has a value of 1 and a minimum pixel value of 0 respectively. 
+The data read as input in the form of array is not normalized. Therefore, we take an additional step to ensure that the maximum pixel value of 1 and a minimum pixel value of 0 respectively. 
 
 ## Metrics
 
