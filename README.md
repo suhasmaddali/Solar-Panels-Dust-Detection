@@ -23,6 +23,11 @@ With the rise and development of deep learning models used for recognizing image
 
 ## Deep Learning Models
 
+## 💻 Training with NVIDIA's RTX 2080 graphics card for Computer Vision Tasks 
+
+* __GPU-accelerated deep learning frameworks__ offer flexibility to design and train __deep neural networks__.
+* With __cuDNN__ and __Nvidia's graphics drivers__, I was able to train the models really quickly by using __GPU__ cores rather than the __CPU__ cores.
+* This led to a significant increase in the __speed of training__ and __developing convolutional neural networks (CNNs)__. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
