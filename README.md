@@ -31,7 +31,7 @@ There are often challenges associated with using solar panels for the generation
 ## Feature Engineering
 
 * The data read as input in the form of an array is not normalized. 
-* Therefore, we take an additional step to ensure that the maximum pixel value of 1 and a minimum pixel value of 0.
+* Therefore, we take an additional step to ensure that the maximum pixel value of 1 and a minimum pixel value of 0 respectively.
 * Feature Engineering strategies such as semantic segmentation would be followed to improve the performance of the best deep learning image recognition model. 
 
 ## Metrics
