@@ -12,7 +12,9 @@ __Solar panels__ are used in quite a large number of industries. Examples includ
 
 There often challenges associated with using solar panels for generation of electricity. One of the primary issues is their low efficiency. However, they are quite useful in areas where there is abundant sunlight. Due to dust accumulated on their surface, their efficiency reduces as it is not able to absorb the solar radiation from the sun. 
 
-## Data Science and Machine Learning 
+## Deep Learning and Data Sciencie
+
+With the rise and development of deep learning models used for recognizing images, it is possible to find a solution to this problem of accumulation of dust on solar panels. Convolutional Neural Networks (CNNs) are used for image processing and can extract useful insights from them and make prediction about whether solar panels are dusty or clean. In the recent decade, there has been a rapid growth of transformers and how they could be used for vision tasks (known as vision transformers). 
 
 
 ## Exploratory Data Analysis (EDA)
