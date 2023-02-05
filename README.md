@@ -24,6 +24,14 @@ Performing exploratory data analysis could reveal interesting patterns about the
 
 ## Metrics
 
+As there are 2 classes (clean or dusty), it becomes a classification problem. We would be using binary cross entropy loss and modify the weights of deep neural networks until the desired performance is met. Below are the metrics used to track various model performances. 
+
+1. Accuracy
+2. Precision
+3. Recall
+4. F1-Score
+5. ROC-AUC Curves
+
 ## Deep Learning Models
 
 ## 💻 Training with NVIDIA's RTX 2080 graphics card for Computer Vision Tasks 
