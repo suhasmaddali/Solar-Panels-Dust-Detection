@@ -66,7 +66,7 @@ We would be using convolutional neural networks (CNNs) with various configuratio
 
 ## Future Scope
 
-* As the best model is able to give good performance on the solar panel dataset, it could be __deployed__ in real-time in a lightweight fashion in mobiles and IoT. 
+* As the best model is able to give good performance on the solar panel dataset, it could be __deployed__ in real-time in a lightweight fashion in mobiles and IoT devices. 
 * With various libraries such as __Tensorflow extended (TFX)__, it is easy to deploy a large set of models along with debugging and maintaining them when they are put to production, leading to an efficiency ML lifecycle. 
 
 
