@@ -42,7 +42,7 @@ As there are 2 classes (clean or dusty), it becomes a classification problem. We
 * [__Precision__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html)
 * [__Recall__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html)
 * [__F1-Score__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html)
-* __ROC-AUC Curves__
+* [__ROC-AUC Curves__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html)
 
 ## Deep Learning Models
 
