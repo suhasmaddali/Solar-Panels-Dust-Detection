@@ -61,11 +61,13 @@ We would be using convolutional neural networks (CNNs) with various configuratio
 
 ## Outcomes
 
-After training a vast array of networks for the recognition of solar panels dust, it could be seen that MobileNetV2 was performing well on the test set. Adequate hyperparameter tuning with this model can improve the performance even further, with minimal chances of overfitting. 
+* After training a vast array of networks for the recognition of solar panels dust, it could be seen that MobileNetV2 was performing well on the test set. 
+* Adequate hyperparameter tuning with this model can improve the performance even further, with minimal chances of overfitting. 
 
 ## Future Scope
 
-As the best model is able to give good performance on the solar panel dataset, it could be deployed in real-time in a lightweight fashion in mobiles and IoT. With various libraries such as Tensorflow extended (TFX), it is easy to deploy a large set of models along with debugging and maintaining them when they are put to production, leading to an efficiency ML lifecycle. 
+* As the best model is able to give good performance on the solar panel dataset, it could be deployed in real-time in a lightweight fashion in mobiles and IoT. 
+* With various libraries such as Tensorflow extended (TFX), it is easy to deploy a large set of models along with debugging and maintaining them when they are put to production, leading to an efficiency ML lifecycle. 
 
 
 ## 💻 Training with NVIDIA's RTX 2080 graphics card for Computer Vision Tasks 
