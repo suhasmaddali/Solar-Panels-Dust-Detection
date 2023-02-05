@@ -10,7 +10,7 @@ __Solar panels__ are used in quite a large number of industries. Examples includ
 
 ## Challenges
 
-There often challenges associated with using solar panels for generation of electricity. One of the primary issues is their low efficiency. However, they are quite useful in areas where there is abundant sunlight. Due to dust accumulated on their surface, their efficiency reduces as it is not able to absorb the solar radiation from the sun. 
+There are often challenges associated with using solar panels for generation of electricity. One of the primary issues is their low efficiency. However, they are quite useful in areas where there is abundant sunlight. Due to dust accumulated on their surface, their efficiency reduces as it is not able to absorb the solar radiation from the sun. 
 
 ## Deep Learning and Data Sciencie
 
