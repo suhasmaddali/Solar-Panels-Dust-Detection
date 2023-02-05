@@ -12,9 +12,13 @@ __Solar panels__ are used in quite a large number of industries. Examples includ
 
 There are often challenges associated with using solar panels for generation of electricity. One of the primary issues is their low efficiency. However, they are quite useful in areas where there is abundant sunlight. Due to dust accumulated on their surface, their efficiency reduces as it is not able to absorb the solar radiation from the sun. 
 
-## Deep Learning and Data Sciencie
+## Deep Learning and Data Science
 
-With the rise and development of deep learning models used for recognizing images, it is possible to find a solution to this problem of accumulation of dust on solar panels. Convolutional Neural Networks (CNNs) are used for image processing and can extract useful insights from them and make prediction about whether solar panels are dusty or clean. In the recent decade, there has been a rapid growth of transformers and how they could be used for vision tasks (known as vision transformers). There are other learning strategies such as transfer learning that also result in improved performance and minimal training. Therefore, it is possible to improve the systems that detect dust on the surface of solar panels, leading to improved efficiency and reduced operational and maintenance costs. 
+* With the rise and development of deep learning models used for recognizing images, it is possible to find a solution to this problem of accumulation of dust on solar panels. 
+* Convolutional Neural Networks (CNNs) are used for image processing and can extract useful insights from them and make prediction about whether solar panels are dusty or clean. 
+* In the recent decade, there has been a rapid growth of transformers and how they could be used for vision tasks (known as vision transformers). 
+* There are other learning strategies such as transfer learning that also result in improved performance and minimal training.
+* Therefore, it is possible to improve the systems that detect dust on the surface of solar panels, leading to improved efficiency and reduced operational and maintenance costs. 
 
 ## Exploratory Data Analysis (EDA)
 
