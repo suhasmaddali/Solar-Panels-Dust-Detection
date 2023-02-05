@@ -6,6 +6,8 @@
 
 __Solar panels__ are used in quite a large number of industries. Examples include residential, agricultural, manufacturing, healthcare and retail to name a few. With year of their usage, there is often dust accumulated on their surface due to factors such as climate, trees, vegetation, lack of maintenance and bird droppings. Since the primary source of energy for solar cells comes from the sun, the dust accumulated on the surface of the panels lead to reduced efficiency, reduced lifespan, increased costs and inefficiency resource use. 
 
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Solar%20Panel%20GitHub%20Images.jpg" />
+
 ## Challenges
 
 One of the challenges that these companies face is to know the number of bikes that must be placed at different locations at different instances of time to ensure that they get maximum profit and give the people their rides. Sometimes there is a possibility of people missing out on these bikes due to their unavailability. On the contrary, there are also instances when the demand for these bikes is low while they are highly available in many locations without being used. Therefore, it becomes important to tackle these instances and understand the demand for bikes for different days and scenarios.
@@ -36,8 +38,6 @@ There are a large number of machine learning models used in the prediction of th
 * [__Gradient Boosting Regressor__](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html)
 * [__Logistic Regression__](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 * [__Long Short Term Memory (LSTM)__](https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM)
-
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Solar%20Panel%20GitHub%20Images.jpg" />
 
 ## 👉 Directions to download the repository and run the notebook 
 
