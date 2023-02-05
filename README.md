@@ -61,6 +61,8 @@ We would be using convolutional neural networks (CNNs) with various configuratio
 
 ## Outcomes
 
+After training a vast array of networks for the recognition of solar panels dust, it could be seen that MobileNetV2 was performing well on the test set. Adequate hyperparameter tuning with this model can improve the performance even further, with minimal chances of overfitting. 
+
 ## Future Scope
 
 
