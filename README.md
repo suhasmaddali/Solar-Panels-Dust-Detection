@@ -39,7 +39,7 @@ There are often challenges associated with using solar panels for generation of 
 As there are 2 classes (clean or dusty), it becomes a classification problem. We would be using binary cross entropy loss and modify the weights of deep neural networks until the desired performance is met. Below are the metrics used to track various model performances. 
 
 * [__Accuracy__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html)
-* __Precision__
+* [__Precision__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html)
 * __Recall__
 * __F1-Score__
 * __ROC-AUC Curves__
