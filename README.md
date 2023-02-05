@@ -59,6 +59,10 @@ We would be using convolutional neural networks (CNNs) with various configuratio
 9. __CNN (Configuration 3)__
 10. __CNN (Configuration 4)__
 
+## Outcomes
+
+## Future Scope
+
 
 ## 💻 Training with NVIDIA's RTX 2080 graphics card for Computer Vision Tasks 
 
