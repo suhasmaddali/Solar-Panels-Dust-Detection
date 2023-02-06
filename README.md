@@ -54,6 +54,7 @@ We would be using convolutional neural networks (CNNs) with various configuratio
 * __MobileNet__
 * __Xception__ 
 * __MobileNetV2__
+* __ResNet50__
 * __CNN (Configuration 1)__
 * __CNN (Configuration 2)__
 * __CNN (Configuration 3)__
