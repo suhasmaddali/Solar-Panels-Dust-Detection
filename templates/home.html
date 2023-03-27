@@ -1,14 +1,53 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Solar Panel Dust Detection</title>
+    <title>Solar Panel Dust Classifier</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f1f1f1;
+        }
+
+        h1 {
+            text-align: center;
+            color: #383838;
+            margin-top: 50px;
+        }
+
+        .container {
+            background-color: #ffffff;
+            border-radius: 10px;
+            margin: auto;
+            padding: 50px;
+            width: 50%;
+            box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+        }
+
+        .button {
+            background-color: #4CAF50;
+            border: none;
+            color: #ffffff;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 8px;
+            transition: background-color 0.3s ease;
+        }
+
+        .button:hover {
+            background-color: #3e8e41;
+        }
+    </style>
 </head>
 <body>
-    <h1>Identify Dust in Solar Panels</h1>
-    <p>Please share the your image</p>
-    <form action="/" method="POST" enctype="multipart/form-data">
-        <input type="file" name="file">
-        <input type="submit" value="Upload">
-    </form>
+    <h1>Solar Panel Dust Classifier</h1>
+    <div class="container">
+        <p>This is the home page of my application. To use the classifier, please upload an image of a solar panel by clicking the button below.</p>
+        <a href="/predict" class="button">Upload Image</a>
+    </div>
 </body>
 </html>
