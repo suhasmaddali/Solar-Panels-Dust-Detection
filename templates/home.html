@@ -23,6 +23,15 @@
             box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
         }
 
+        #image-preview {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+
+        #image-preview img {
+            width: 100%;
+        }
+
         .button {
             background-color: #4CAF50;
             border: none;
@@ -46,8 +55,12 @@
 <body>
     <h1>Solar Panel Dust Classifier</h1>
     <div class="container">
-        <p>This is the home page of my application. To use the classifier, please upload an image of a solar panel by clicking the button below.</p>
-        <a href="/predict" class="button">Upload Image</a>
+        <form action="/predict" method="post" enctype="multipart/form-data">
+            <h2>Upload an image of a solar panel</h2>
+            <input type="file" name="file" id="file">
+            <br><br>
+            <button type="submit" class="button">Predict</button>
+        </form>
     </div>
 </body>
 </html>

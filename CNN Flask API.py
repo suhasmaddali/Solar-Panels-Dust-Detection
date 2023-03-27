@@ -1,6 +1,8 @@
 import os
 import flask
 import numpy as np
+import cv2
+import tensorflow as tf
 from tensorflow.keras.preprocessing import image
 from tensorflow.keras.models import load_model
 
@@ -23,15 +25,18 @@ def predict():
         file.save(file_path)
 
         # Load the image file and preprocess it
-        img = image.load_img(file_path, target_size = (224, 224))
+        img = cv2.imread(file_path, cv2.IMREAD_COLOR)
+        img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+        img = cv2.resize(img, (224, 224))
+
         x = image.img_to_array(img)
-        x = np.expand_dims(x, axis = 0)
+        x = np.expand_dims(x, axis=0)
 
         # Make predictions using the loaded model
         predictions = model.predict(x)
 
         # Get the predicted class label
-        if predictions[0][0] > 0.25:
+        if predictions[0][0] > 0.1:
             label = "Dusty"
         else:
             label = "Clean"
