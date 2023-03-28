@@ -31,12 +31,13 @@ def predict():
 
         x = image.img_to_array(img)
         x = np.expand_dims(x, axis=0)
+        x = x / 255
 
         # Make predictions using the loaded model
         predictions = model.predict(x)
 
         # Get the predicted class label
-        if predictions[0][0] > 0.1:
+        if predictions[0][0] > 0.5:
             label = "Dusty"
         else:
             label = "Clean"
