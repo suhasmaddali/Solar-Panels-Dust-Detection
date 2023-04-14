@@ -76,6 +76,54 @@ We would be using convolutional neural networks (CNNs) with various configuratio
   </tr>
 </table>
 
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  td {
+    padding: 10px;
+    text-align: center;
+    width: 50%;
+  }
+
+  ul {
+    list-style-type: disc;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+  }
+</style>
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>VGG16</li>
+        <li>VGG19</li>
+        <li>InceptionNet</li>
+        <li>MobileNet</li>
+        <li>Xception</li>
+        <li>MobileNetV2</li>
+        <li>ResNet50</li>
+        <li>CNN (Configuration 1)</li>
+        <li>CNN (Configuration 2)</li>
+        <li>CNN (Configuration 3)</li>
+        <li>CNN (Configuration 4)</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>VGG16 (Feature Extractor) + ML Models</li>
+        <li>MobileNet (Feature Extractor) + ML Models</li>
+        <li>InceptionNet (Feature Extractor) + ML Models</li>
+        <li>CNN (Feature Extractor) + ML Models</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 
 ## Outcomes
