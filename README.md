@@ -68,9 +68,9 @@ We would be using convolutional neural networks (CNNs) with various configuratio
   <tr>
     <td>
       <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
+        <li>VGG16</li>
+        <li>vVGG19</li>
+        <li></li>
       </ul>
     </td>
     <td>
@@ -82,6 +82,35 @@ We would be using convolutional neural networks (CNNs) with various configuratio
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>VGG16</li>
+        <li>VGG19</li>
+        <li>InceptionNet</li>
+        <li>MobileNet</li>
+        <li>Xception</li>
+        <li>MobileNetV2</li>
+        <li>ResNet50</li>
+        <li>CNN (Configuration 1)</li>
+        <li>CNN (Configuration 2)</li>
+        <li>CNN (Configuration 3)</li>
+        <li>CNN (Configuration 4)</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>VGG16 (Feature Extractor) + ML Models</li>
+        <li>MobileNet (Feature Extractor) + ML Models</li>
+        <li>InceptionNet (Feature Extractor) + ML Models</li>
+        <li>CNN (Feature Extractor) + ML Models</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 
 ## Outcomes
