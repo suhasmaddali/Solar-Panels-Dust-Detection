@@ -64,6 +64,26 @@ We would be using convolutional neural networks (CNNs) with various configuratio
 * **InceptionNet (Feature Extractor) + ML Models**
 * **CNN (Feature Extractor) + ML Models**
 
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Item A</li>
+        <li>Item B</li>
+        <li>Item C</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
 ## Outcomes
 
 * After training a vast array of networks for the recognition of solar panel dust, it could be seen that MobileNetV2 was performing well on the test set. 
