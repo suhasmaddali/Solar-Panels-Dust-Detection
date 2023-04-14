@@ -59,10 +59,10 @@ We would be using convolutional neural networks (CNNs) with various configuratio
 * __CNN (Configuration 2)__
 * __CNN (Configuration 3)__
 * __CNN (Configuration 4)__
-* VGG16 (Feature Extractor) + ML Models
-* MobileNet (Feature Extractor) + ML Models
-* InceptionNet (Feature Extractor) + ML Models
-* CNN (Feature Extractor) + ML Models 
+* **VGG16 (Feature Extractor) + ML Models**
+* **MobileNet (Feature Extractor) + ML Models**
+* **InceptionNet (Feature Extractor) + ML Models**
+* **CNN (Feature Extractor) + ML Models**
 
 ## Outcomes
 
