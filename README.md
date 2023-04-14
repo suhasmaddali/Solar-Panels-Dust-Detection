@@ -48,41 +48,6 @@ As there are 2 classes (clean or dusty), it becomes a classification problem. We
 
 We would be using convolutional neural networks (CNNs) with various configurations along with various transfer learning methodologies to determine the best model to be deployed. Below is the list of models used.
 
-* __VGG16__
-* __VGG19__
-* __InceptionNet__
-* __MobileNet__
-* __Xception__ 
-* __MobileNetV2__
-* __ResNet50__
-* __CNN (Configuration 1)__
-* __CNN (Configuration 2)__
-* __CNN (Configuration 3)__
-* __CNN (Configuration 4)__
-* **VGG16 (Feature Extractor) + ML Models**
-* **MobileNet (Feature Extractor) + ML Models**
-* **InceptionNet (Feature Extractor) + ML Models**
-* **CNN (Feature Extractor) + ML Models**
-
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>VGG16</li>
-        <li>vVGG19</li>
-        <li></li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Item A</li>
-        <li>Item B</li>
-        <li>Item C</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 <table>
   <tr>
     <td>
