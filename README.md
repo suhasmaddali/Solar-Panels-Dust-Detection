@@ -52,8 +52,8 @@ We would be using convolutional neural networks (CNNs) with various configuratio
   <tr>
     <td>
       <ul>
-        <li>VGG16</li>
-        <li>VGG19</li>
+        <li>__VGG16__</li>
+        <li>__VGG19__</li>
         <li>InceptionNet</li>
         <li>MobileNet</li>
         <li>Xception</li>
