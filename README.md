@@ -94,11 +94,11 @@ We would be using convolutional neural networks (CNNs) with various configuratio
         <li>Xception</li>
         <li>MobileNetV2</li>
         <li>ResNet50</li>
-        <li>CNN (Configuration 1)</li>
       </ul>
     </td>
     <td>
       <ul>
+        <li>CNN (Configuration 1)</li>
         <li>CNN (Configuration 2)</li>
         <li>CNN (Configuration 3)</li>
         <li>CNN (Configuration 4)</li>
